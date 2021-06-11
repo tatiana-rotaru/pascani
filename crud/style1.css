@@ -442,7 +442,7 @@ header #menu{
 
 .contact .row form .btn:hover{
     background:#fff;
-    color:#333;
+    color:#994d00;
 }
 
 .contact .row .image img{
@@ -451,7 +451,7 @@ header #menu{
 }
 
 .footer{
-    background:#ffcc99;
+    background:#994d00;
 }
 .footer img{
     width: 50%;
